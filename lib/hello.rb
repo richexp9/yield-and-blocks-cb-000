@@ -7,7 +7,7 @@ def hello_t(array)
     end
     array
   else
-    
+    puts "Hey! no blick was given."
   end
 end
 
